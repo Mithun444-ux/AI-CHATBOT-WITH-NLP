@@ -38,11 +38,12 @@ lemmatizer reduces words to their root form (e.g., "running" → "run").
 
 data = { 'Day': ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'], 'Sales': [200, 150, 300, 280, 500, 700, 650] } df = pd.DataFrame(data)
 
+
 A sample dictionary representing sales for each day of the week.
 
 Converted to a DataFrame for easy analysis and plotting.
 
-5. Predefined User Intent Categories
+5. Predefined User Intent CategorieS
 
 greetings = ["hello", "hi", "hey"] exit_words = ["bye", "exit", "quit"]
 
