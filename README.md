@@ -176,3 +176,7 @@ Understands basic user input through keyword matching.
 Uses NLP (tokenizing + lemmatizing) to process natural language.
 
 Analyzes and visualizes sales data using Pandas and Matplotlib.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0484e24d-9bec-488a-a0f8-2732e76c4c53)
